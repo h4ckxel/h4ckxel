@@ -84,7 +84,7 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="40%" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*WrwdcBfUDun9PNEHT9F53g.png"/>
 
-[![h4cxel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouredev&theme=chartreuse-dark)](https://github.com/mouredev/github-readme-stats)
+[![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4ckxel&theme=chartreuse-dark)](https://github.com/mouredev/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mouredev&theme=chartreuse-dark&card_width=450)](https://git.io/streak-stats)
 
  <p align="left"><a href="https://github.com/mouredev/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouredev&layout=compact&theme=chartreuse-dark" width="450"" />
