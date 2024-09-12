@@ -63,7 +63,7 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 
 - 📚 **Currently Learning**:
 
-  - Cybersecurity
+  - Cybersecurity.
   - Ethical Hacking
   - Advanced Forensics
 
