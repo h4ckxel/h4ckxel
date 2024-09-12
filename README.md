@@ -65,7 +65,7 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 
   - Cybersecurity.
   - Ethical Hacking.
-  - Advanced Forensics
+  - Advanced Forensics.
 
 - 🛠️ **Writing Useful Tools** for myself and communities.
 
