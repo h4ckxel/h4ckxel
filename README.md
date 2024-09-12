@@ -86,7 +86,7 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mouredev&theme=chartreuse-dark&card_width=450)](https://git.io/streak-stats)
 
- <p align="left"><a href="https://github.com/mouredev/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouredev&layout=compact&theme=chartreuse-dark" width="450"" />
+ <p align="left"><a href="https://github.com/h4ckxel/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouredev&layout=compact&theme=chartreuse-dark" width="450"" />
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Advanced-red)
