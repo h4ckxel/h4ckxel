@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blackstormroofingmarketing.com/wp-content/uploads/2020/07/What-to-do-if-Your-Roofing-Website-is-hacked.gif" width="80%" height="auto"/>
+  <img src="https://art.pixilart.com/efd2e94936a85ea.gif" width="80%" height="auto"/>
   <img src="snake.svg" style="background:#161b22;">
 </p>
 
