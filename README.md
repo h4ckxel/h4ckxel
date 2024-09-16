@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://art.pixilart.com/efd2e94936a85ea.gif" width="80%" height="auto"/>
+  <img src="https://art.pixilart.com/efd2e94936a85ea.gif" width="70%" height="auto"/>
   <img src="snake.svg" style="background:#161b22;">
 </p>
 
