@@ -83,6 +83,8 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
+  <img align="right" width="40%" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*WrwdcBfUDun9PNEHT9F53g.png"/>
+
 <p align="left"> 
   
 
@@ -90,15 +92,17 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 
 
 <p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=h4ckxel&theme=chartreuse-dark" width="400" />
-<img align="right" width="40%" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*WrwdcBfUDun9PNEHT9F53g.png"/>
+
+<p align="left"><a href="https://github.com/h4ckxel/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ckxel&layout=compact&theme=chartreuse-dark" width="400"" />
 
 
- <p align="left"><a href="https://github.com/h4ckxel/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ckxel&layout=compact&theme=chartreuse-dark" width="400"" />
+   ---
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Advanced-red)
 ![JSON](https://img.shields.io/badge/JSON-Beginner-orange)
 ![C++](https://img.shields.io/badge/C%2B%2B-11-blueviolet)
+![Bash](https://img.shields.io/badge/Bash-Beginner-green)
 </a></p>
 
 <br><br>
