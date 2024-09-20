@@ -1,7 +1,12 @@
-<p align="center">
+<div align="center">
   <img src="fsocietygif.gif" width="85%" height="auto"/>
+  
+ `Fsociety`
+
+  
   <img src="snake.svg" style="background:#161b22;">
-</p>
+  
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&duration=2500&pause=1000&color=34F804FF&width=550&lines=Decrypting+challenges%2C+encrypting+solutions." alt="Typing SVG" /></a>
