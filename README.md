@@ -111,3 +111,16 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 </a></p>
 
 <br><br>
+
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4ckxel&theme=github_dark" alt="summarycard"/> </p>
+<!-- <br> -->
+<!-- <br> -->
+<br>
+<hr />
+<h3 align="center">
+
+</h3>
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/h4ckxel/count.svg" />
+</h3>
