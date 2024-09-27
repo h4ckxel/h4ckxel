@@ -115,5 +115,5 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 </h3>
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/h4ckxel/count.svg" />
+  <img src="https://profile-counter.glitch.me/mouredev/count.svg" />
 </h3>
