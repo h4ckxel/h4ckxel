@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ea/66/7e/ea667e9c255ca8cd34194c1416f67766.gif" width="85%" height="auto"/>
+  <img src="images/fsociety2.gif" width="85%" height="auto"/>
   
  `Fsociety`
 
   
-  <img src="snake.svg" style="background:#161b22;">
+  <img src="images/snake.svg" style="background:#161b22;">
   
 </div>
 
