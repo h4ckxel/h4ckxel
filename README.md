@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="fsocietygif.gif" width="85%" height="auto"/>
+  <img src="https://i.pinimg.com/originals/ea/66/7e/ea667e9c255ca8cd34194c1416f67766.gif" width="85%" height="auto"/>
   
  `Fsociety`
 
