@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/fsociety2.gif" width="85%" height="auto"/>
   
- `Fsociety`
+ `Fsoc i e t y`
 
   
   <img src="images/snake.svg" style="background:#161b22;">
