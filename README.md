@@ -18,7 +18,7 @@
 </h2>
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
-I'm **h4ckxel**, a passionate coder and cybersecurity enthusiast on a journey to master the art of hacking, digital security, and software engineering. With a strong foundation in programming and a keen interest in ethical hacking, I am dedicated to protecting systems and enhancing security.
+I'm ***h4ckxel***, a passionate coder and cybersecurity enthusiast on a journey to master the art of hacking, digital security, and software engineering. With a strong foundation in programming and a keen interest in ethical hacking, I am dedicated to protecting systems and enhancing security.
 
 Technology has always fascinated me, and I've immersed myself in the captivating world of cybersecurity. From analyzing malware and viruses to exploring advanced security techniques, I am committed to deepening my understanding and expertise.
 
