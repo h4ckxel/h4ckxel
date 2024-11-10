@@ -97,8 +97,6 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
   ![h4ckxel's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4ckxel&show_icons=true&theme=chartreuse-dark)
 
 
-<p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=h4ckxel&theme=chartreuse-dark" width="400" />
-
 <p align="left"><a href="https://github.com/h4ckxel/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ckxel&layout=compact&theme=chartreuse-dark" width="400"" />
 
 
