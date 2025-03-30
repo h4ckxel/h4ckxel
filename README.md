@@ -13,34 +13,34 @@
 </div>
 
 <h2 align="left">
-  Hi there
+  Yo, what's up?
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
-I'm ***h4ckxel***, a hacker ethicist, programmer, mathematician, and fighter in Muay Thai and MMA. I excel in all these disciplines, seamlessly integrating them as if they were pieces of the same puzzle. Just as polymaths connect knowledge across different domains, I bridge logic, strategy, and physical resilience in ways that enhance my approach to every challenge.
+I'm ***h4ckxel***, an ethical hacker, programmer, mathematician, and fighter in Muay Thai & MMA. I don’t just dabble—I dominate. Tech, logic, and combat all run through my veins, and I connect them like pieces of a master plan. Precision, strategy, and adaptability? That’s my game, whether I'm breaking code or breaking limits in the ring.
 
-Cybersecurity is my battlefield, programming my toolkit, mathematics my foundation, and combat sports my discipline. Whether analyzing vulnerabilities, optimizing algorithms, or strategizing in a fight, I apply the same principles of precision, adaptability, and calculated execution.
+Cybersecurity is my battlefield, programming is my arsenal, math is my foundation, and fighting is my discipline. I don’t just solve problems—I dissect them, find their weaknesses, and execute the best approach. Same principles, different battlegrounds.
 
-I aim to push the boundaries of technology, security, and human potential, constantly seeking innovation and mastery in every field I step into.
+I’m here to push boundaries, innovate, and sharpen my edge across all fronts. You in?
 
 ---
 
-Feel free to reach out if you'd like to collaborate on projects, discuss cybersecurity, or even share strategies in combat sports!
+Hit me up if you wanna collab on some dope projects, talk cybersecurity, or even throw down some fight strategies.
 
 <details>
   <summary>More about me</summary>
 
 - **Name**: h4ckxel
 - **From**: México
-- **Roles**:
+- **What I Do**:
   
-  - Ethical Hacker
-  - Security Researcher
-  - Penetration Tester
-  - Software Engineer
-  - Mathematician
-  - Fighter (Muay Thai & MMA)
+  - Ethical Hacking
+  - Security Research
+  - Penetration Testing
+  - Software Engineering
+  - Mathematics
+  - Fighting (Muay Thai & MMA)
 
 - **Experience**:
   
@@ -50,43 +50,43 @@ Feel free to reach out if you'd like to collaborate on projects, discuss cyberse
 
 - **Skills & Knowledge**:
   
-  - Mastering **Website Vulnerabilities** 🌐
-  - Advancing in **Mobile Pentesting** 📱
-  - Expanding expertise in **Cybersecurity** 🔐, **Ethical Hacking** 🕵️‍♂️, and **Web3 Technologies** 🌐
-  - Applying **Mathematical Models** to optimize attack and defense strategies in both hacking and combat.
+  - Owning **Website Security** 🌐
+  - Leveling up in **Mobile Pentesting** 📱
+  - Going deep in **Cybersecurity** 🔐, **Ethical Hacking** 🕵️‍♂️, and **Web3 Tech** 🌐
+  - Applying **Math Models** to optimize hacking strategies & fight tactics.
 
 - **Contact**:
-  - Reach me at [**acxel.programming@gmail.com**](mailto:acxel.programming@gmail.com) 📧
+  - Hit me up at [**acxel.programming@gmail.com**](mailto:acxel.programming@gmail.com) 📧
 
 </details>
 <br>
 
 ---
 
-<h2 id="present_status">Present Status</h2>
+<h2 id="present_status">Current Status</h2>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-- 🧮 **Lover of Mathematics**, applying it in cybersecurity, programming, and combat strategy.
+- 🧮 **Math Head**, using numbers to crack systems & predict fight moves.
 
-- 📚 **Currently Learning**:
+- 📚 **Currently Grinding**:
   
   - Cybersecurity.
   - Ethical Hacking.
   - Advanced Forensics.
-  - Applied Combat Strategy & Physics in Martial Arts.
+  - Combat Strategy & Physics.
 
-- 🛠️ **Developing Tools** for cybersecurity, automation, and self-improvement.
+- 🛠️ **Building Tools** to automate, secure, and evolve.
 
-- 🌍 **Building & Contributing** to Open Source Projects.
+- 🌍 **Contributing & Releasing** Open Source Projects.
 
-- 💻 **Passionate Coder**, pushing the limits of software security and development.
+- 💻 **Code Junkie**, pushing software & security to the edge.
 
-- 🕵️‍♀️ **Cybersecurity Expert**, protecting systems and networks with a hacker mindset.
+- 🕵️‍♀️ **Cybersecurity Beast**, fortifying networks with a hacker mindset.
 
-- 🥋 **Fighter**, applying the hacker mentality to combat sports—analyzing weaknesses, predicting moves, and optimizing strategy.
+- 🥋 **Martial Artist**, bringing the hacker mentality to the fight game—read, predict, execute.
 
-`Updating:` Journey to _Cybersecurity Specialist_, _Software Engineer_, and _Combat Analyst_ 👀.
+`Always leveling up:` Cybersecurity Specialist, Software Engineer & Combat Tactician 👀.
 
 ---
 
