@@ -2,8 +2,7 @@
   
   <img src="images/fsociety2.gif" width="85%" height="auto"/>
   
- `F s o c i e t y`
-
+  `F s o c i e t y`
   
   <img src="images/snake.svg" style="background:#161b22;">
   
@@ -19,15 +18,15 @@
 </h2>
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
-I'm ***h4ckxel***, a passionate coder and cybersecurity enthusiast on a journey to master the art of hacking, digital security, and software engineering. With a strong foundation in programming and a keen interest in ethical hacking, I am dedicated to protecting systems and enhancing security.
+I'm ***h4ckxel***, a hacker ethicist, programmer, mathematician, and fighter in Muay Thai and MMA. I excel in all these disciplines, seamlessly integrating them as if they were pieces of the same puzzle. Just as polymaths connect knowledge across different domains, I bridge logic, strategy, and physical resilience in ways that enhance my approach to every challenge.
 
-Technology has always fascinated me, and I've immersed myself in the captivating world of cybersecurity. From analyzing malware and viruses to exploring advanced security techniques, I am committed to deepening my understanding and expertise.
+Cybersecurity is my battlefield, programming my toolkit, mathematics my foundation, and combat sports my discipline. Whether analyzing vulnerabilities, optimizing algorithms, or strategizing in a fight, I apply the same principles of precision, adaptability, and calculated execution.
 
-I aspire to become a _**Cybersecurity Specialist & Software Engineer**_, combining my skills in both fields to safeguard company assets, develop robust security solutions, and contribute meaningfully to the community. My goal is to drive innovation in cybersecurity while ensuring the integrity and resilience of digital systems.
+I aim to push the boundaries of technology, security, and human potential, constantly seeking innovation and mastery in every field I step into.
 
 ---
 
-Feel free to reach out if you'd like to collaborate on projects or discuss the latest in cybersecurity and software engineering!
+Feel free to reach out if you'd like to collaborate on projects, discuss cybersecurity, or even share strategies in combat sports!
 
 <details>
   <summary>More about me</summary>
@@ -35,23 +34,26 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 - **Name**: h4ckxel
 - **From**: México
 - **Roles**:
-
+  
+  - Ethical Hacker
   - Security Researcher
   - Penetration Tester
-  - Ethical Hacker
-  - Programmer
+  - Software Engineer
+  - Mathematician
+  - Fighter (Muay Thai & MMA)
 
 - **Experience**:
-
+  
   - Cracking
   - Reverse Engineering
   - Social Engineering
 
 - **Skills & Knowledge**:
-
-  - Improving knowledge in **Website Vulnerabilities** 🌐
-  - Expanding skills in **Mobile Pentesting** 📱
-  - Currently learning **everything** related to **Cybersecurity** 🔐, **Ethical Hacking** 🕵️‍♂️, and **Web3 Technologies** 🌐
+  
+  - Mastering **Website Vulnerabilities** 🌐
+  - Advancing in **Mobile Pentesting** 📱
+  - Expanding expertise in **Cybersecurity** 🔐, **Ethical Hacking** 🕵️‍♂️, and **Web3 Technologies** 🌐
+  - Applying **Mathematical Models** to optimize attack and defense strategies in both hacking and combat.
 
 - **Contact**:
   - Reach me at [**acxel.programming@gmail.com**](mailto:acxel.programming@gmail.com) 📧
@@ -65,25 +67,26 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-- 🧮 **Lover of Mathematics** and its applications in cybersecurity.
+- 🧮 **Lover of Mathematics**, applying it in cybersecurity, programming, and combat strategy.
 
 - 📚 **Currently Learning**:
-
+  
   - Cybersecurity.
   - Ethical Hacking.
   - Advanced Forensics.
+  - Applied Combat Strategy & Physics in Martial Arts.
 
-- 🛠️ **Writing Useful Tools** for myself and communities.
+- 🛠️ **Developing Tools** for cybersecurity, automation, and self-improvement.
 
 - 🌍 **Building & Contributing** to Open Source Projects.
 
-- 💻 **Passionate Coder** and cybersecurity enthusiast on a journey to master hacking and digital security.
+- 💻 **Passionate Coder**, pushing the limits of software security and development.
 
-- 🕵️‍♀️ **Enthusiastic** about Ethical Hacking and protecting systems and networks from malicious threats.
+- 🕵️‍♀️ **Cybersecurity Expert**, protecting systems and networks with a hacker mindset.
 
-- 🦠 **Fascinated** by the captivating world of cybersecurity, including malware analysis, virus detection, and bug hunting.
+- 🥋 **Fighter**, applying the hacker mentality to combat sports—analyzing weaknesses, predicting moves, and optimizing strategy.
 
-`Updating:` Journey to _Cybersecurity Specialist_ and _Software Engineer_ 👀.
+`Updating:` Journey to _Cybersecurity Specialist_, _Software Engineer_, and _Combat Analyst_ 👀.
 
 ---
 
@@ -93,18 +96,14 @@ Feel free to reach out if you'd like to collaborate on projects or discuss the l
 
 <p align="left"> 
   
-
   ![h4ckxel's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4ckxel&show_icons=true&theme=chartreuse-dark)
 
-
 <p align="left"><a href="https://github.com/h4ckxel/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ckxel&layout=compact&theme=chartreuse-dark" width="400"" />
-
 
    ---
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Advanced-red)
-![JSON](https://img.shields.io/badge/JSON-Beginner-orange)
 ![C++](https://img.shields.io/badge/C%2B%2B-11-blueviolet)
 ![Bash](https://img.shields.io/badge/Bash-Beginner-green)
 </a></p>
