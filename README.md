@@ -18,7 +18,7 @@
 </h2>
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
-I'm ***h4ckxel***, an ethical hacker, programmer, mathematician, and fighter in Muay Thai & MMA. I don’t just dabble—I dominate. Tech, logic, and combat all run through my veins, and I connect them like pieces of a master plan. Precision, strategy, and adaptability? That’s my game, whether I'm breaking code or breaking limits in the ring.
+I'm ***h4ckxel***, an ethical hacker, programmer and mathematician. I don’t just dabble—I dominate. Tech, logic, and combat all run through my veins, and I connect them like pieces of a master plan. Precision, strategy, and adaptability? That’s my game, whether I'm breaking code or breaking limits in the ring.
 
 Cybersecurity is my battlefield, programming is my arsenal, math is my foundation, and fighting is my discipline. I don’t just solve problems—I dissect them, find their weaknesses, and execute the best approach. Same principles, different battlegrounds.
 
