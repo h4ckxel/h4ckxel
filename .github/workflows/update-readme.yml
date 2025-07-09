@@ -1,0 +1,32 @@
+
+name: 🛠 Auto Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: 📊 Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🧠 Generate Top Languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          layout: compact
+
+      - name: ⚙️ Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "auto: updated GitHub stats" || echo "No changes"
+          git push
